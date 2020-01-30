@@ -1,0 +1,2 @@
+# NVDA_globalPlugins
+ 
