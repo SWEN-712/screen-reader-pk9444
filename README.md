@@ -41,4 +41,3 @@ Following are the key combinations for the GlobalPlugin add-ons:
 2. To get the current version of the NVDA, press (NVDA+shift+v).
 3. To get the current window's class name, press (NVDA + leftarrow) or (NVDA + pg up).
 4. To get the current window's name and Control ID, press (NVDA + rightarrow) or (NVDA + pg down).
-
