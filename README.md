@@ -1,4 +1,4 @@
-# NVDA_globalPlugins
+# NVDA_GlobalPlugins
  
 ## Description
 This is an example of basic NVDA addons. The type of add-ons implemented is the GlobalPlugin. These are the type of addons that can function anywhere in the Operation System and have an OCR capability.
